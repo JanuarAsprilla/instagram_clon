@@ -19,7 +19,7 @@ Este repositorio contiene el código y los recursos necesarios para crear y mant
 1. **Clonar el Repositorio:** Comienza clonando este repositorio en tu cuenta de GitHub.
 
    ```bash
-   git clone https://github.com/tuusuario/clon-personal-instagram.git
+   git clone https://github.com/JanuarAsprilla/instagram_clon
    ```
 
 2. **Configuración:** Personaliza la configuración del clon según tus necesidades. Puedes ajustar la apariencia, la frecuencia de actualización y otras preferencias.
