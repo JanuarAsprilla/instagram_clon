@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
+import NavItems from '../src/components/NavItems/NavItems'
 
 function App() {
 
@@ -90,6 +90,15 @@ function App() {
   ]
   return (
     <div>
+
+      <NavItems
+      
+      
+      
+      
+      
+      />
+      
       {posts.map(post => (
         <div key={post.id} className="post">
           <img src={post.imageUrl} alt={`Post de ${post.username}`} />
