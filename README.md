@@ -43,6 +43,3 @@ Este proyecto está destinado a brindarte una forma única de conectarte con tus
 _Atentamente,_
 
 _Januar Andres Asprilla Valoyes_
-
----
-**Nota:** Asegúrate de remplazar `[Tu Nombre]` y otras variables con la información relevante antes de incluir este archivo en tu repositorio.
